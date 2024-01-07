@@ -1,0 +1,17 @@
+C:\Project\MyBizLandAPI\project.business\bin\Debug\net6.0\project.business.deps.json
+C:\Project\MyBizLandAPI\project.business\bin\Debug\net6.0\project.business.dll
+C:\Project\MyBizLandAPI\project.business\bin\Debug\net6.0\project.business.pdb
+C:\Project\MyBizLandAPI\project.business\bin\Debug\net6.0\project.core.dll
+C:\Project\MyBizLandAPI\project.business\bin\Debug\net6.0\project.data.dll
+C:\Project\MyBizLandAPI\project.business\bin\Debug\net6.0\project.data.pdb
+C:\Project\MyBizLandAPI\project.business\bin\Debug\net6.0\project.core.pdb
+C:\Project\MyBizLandAPI\project.business\obj\Debug\net6.0\project.business.csproj.AssemblyReference.cache
+C:\Project\MyBizLandAPI\project.business\obj\Debug\net6.0\project.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\MyBizLandAPI\project.business\obj\Debug\net6.0\project.business.AssemblyInfoInputs.cache
+C:\Project\MyBizLandAPI\project.business\obj\Debug\net6.0\project.business.AssemblyInfo.cs
+C:\Project\MyBizLandAPI\project.business\obj\Debug\net6.0\project.business.csproj.CoreCompileInputs.cache
+C:\Project\MyBizLandAPI\project.business\obj\Debug\net6.0\project.business.csproj.CopyComplete
+C:\Project\MyBizLandAPI\project.business\obj\Debug\net6.0\project.business.dll
+C:\Project\MyBizLandAPI\project.business\obj\Debug\net6.0\refint\project.business.dll
+C:\Project\MyBizLandAPI\project.business\obj\Debug\net6.0\project.business.pdb
+C:\Project\MyBizLandAPI\project.business\obj\Debug\net6.0\ref\project.business.dll

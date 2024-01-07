@@ -1,0 +1,12 @@
+C:\Project\MyBizLandAPI\project.core\bin\Debug\net6.0\project.core.deps.json
+C:\Project\MyBizLandAPI\project.core\bin\Debug\net6.0\project.core.dll
+C:\Project\MyBizLandAPI\project.core\bin\Debug\net6.0\project.core.pdb
+C:\Project\MyBizLandAPI\project.core\obj\Debug\net6.0\project.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\MyBizLandAPI\project.core\obj\Debug\net6.0\project.core.AssemblyInfoInputs.cache
+C:\Project\MyBizLandAPI\project.core\obj\Debug\net6.0\project.core.AssemblyInfo.cs
+C:\Project\MyBizLandAPI\project.core\obj\Debug\net6.0\project.core.csproj.CoreCompileInputs.cache
+C:\Project\MyBizLandAPI\project.core\obj\Debug\net6.0\project.core.dll
+C:\Project\MyBizLandAPI\project.core\obj\Debug\net6.0\refint\project.core.dll
+C:\Project\MyBizLandAPI\project.core\obj\Debug\net6.0\project.core.pdb
+C:\Project\MyBizLandAPI\project.core\obj\Debug\net6.0\ref\project.core.dll
+C:\Project\MyBizLandAPI\project.core\obj\Debug\net6.0\project.core.csproj.AssemblyReference.cache

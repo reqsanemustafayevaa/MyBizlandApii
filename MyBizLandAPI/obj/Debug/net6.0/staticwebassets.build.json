@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "YTZ1zY9R3kFma7R3r4ErsBiOdVN9O6ZZtOWb18ilYLE=",
+  "Source": "MyBizLandAPI",
+  "BasePath": "_content/MyBizLandAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyBizLandAPI\\wwwroot",
+      "Source": "MyBizLandAPI",
+      "ContentRoot": "C:\\Project\\MyBizLandAPI\\MyBizLandAPI\\wwwroot\\",
+      "BasePath": "_content/MyBizLandAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
