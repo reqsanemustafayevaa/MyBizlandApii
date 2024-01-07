@@ -94,7 +94,7 @@ namespace MyBizLandAPI.Controllers
 
             return NoContent();
         }
-        [HttpDelete("//Delete/{id}")]
+        [HttpDelete("/Delete/{id}")]
         [Authorize(Roles = "SuperAdmin")]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
@@ -114,7 +114,7 @@ namespace MyBizLandAPI.Controllers
 
             return NoContent();
         }
-        [HttpPatch("/workers/ToggleDelete/{id}")]
+        [HttpPatch("/ToggleDelete/{id}")]
         [Authorize(Roles = "SuperAdmin,Admin")]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
